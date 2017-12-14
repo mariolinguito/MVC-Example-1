@@ -1,0 +1,1 @@
+<p>Hi, my name is <?php echo $firstName . ' ' . $lastName; ?> and I'm engaged as <?php echo $myOccupation; ?></p>

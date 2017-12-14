@@ -1,0 +1,1 @@
+<p>The post is added !</p>
